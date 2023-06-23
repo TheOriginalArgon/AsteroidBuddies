@@ -1,0 +1,1 @@
+draw_line_color(obj_playerShip.x, obj_playerShip.y, obj_playerShip.x+lengthdir_x(10, obj_playerShip.image_angle + 90), obj_playerShip.y+lengthdir_y(10, obj_playerShip.image_angle + 90), c_white, c_white);
